@@ -12,8 +12,8 @@ This project implements a Convolutional Neural Network (CNN) model to predict st
 
 ## Data Source
 - Historical stock price data fetched using `yfinance`
-- Example ticker: AAPL
-- Time period: 2015–2025
+- ticker: AAPL, MSFT, GOOGl
+- Time period: 2022-01-01 to 2024-01-01
 
 ## Methodology
 - Download adjusted close prices using yFinance
